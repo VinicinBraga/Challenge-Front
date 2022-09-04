@@ -1,0 +1,10 @@
+.product-main{
+  display: flex;
+
+}
+
+.datails{
+  border: 1px rgb(0, 174, 255) solid;
+  width: 50vw;
+}
+

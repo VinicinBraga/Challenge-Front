@@ -1,0 +1,27 @@
+.header-main{
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  width: 100vw;
+  height: 60px;
+  background-color: #2d3f46;
+}
+
+.header-input{
+  display: flex;
+  all: unset;
+  width: 50vw;
+  height: 60px;
+  background-color: #222d35;
+  padding-left: 2vw;
+  color: #fff;
+}
+
+.tag-btn{
+  font-weight: bolder;
+  color: #8d908f;
+  margin-left:15px;
+}
+h4{
+  color: #57656a ;
+}

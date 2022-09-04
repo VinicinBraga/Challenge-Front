@@ -1,0 +1,57 @@
+.datails-container{
+  border: 1px solid #fff;
+  background-color:#f1f2f0;
+  margin-right: 5vw;
+  width: 100%;
+}
+
+.product-name{
+  color: #459e6a;
+  font-size: large;
+  font-weight: 600;
+  margin-top: 2vh;
+  margin-left: 1vw;
+}
+
+.price-tag{
+  font-weight: normal;
+  margin-top: 2vh;
+  margin-left: 1vw;
+  color: #3c525a;
+}
+
+.price{
+  font-weight:lighter;
+  font-size: 15px;
+  margin-left: 1vw;
+  color: #57656ad8;
+}
+
+.details-info{
+  font-weight: normal;
+  margin-top: 2vh;
+  margin-left: 1vw;
+  color: #3c525a;
+}
+
+.line{
+  margin-top: 17vh;
+}
+
+.toEdit-btn{
+  all: unset;
+  width: 110px;
+  height: 50px;
+  margin-top: 2vh;
+  margin-left: 1vw;
+  background-color: #3c525a;
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+  padding-bottom: 4px;
+  padding-right: 1vw;
+}
+
+
+
+

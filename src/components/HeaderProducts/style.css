@@ -1,0 +1,42 @@
+.header-products{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  height: 60px;
+  padding-right: 5vw;
+  padding-left: 5vw;
+  padding-top: 10vh;
+  padding-bottom: 5vh;
+}
+
+.main-title{
+  color: #57656a;
+  font-size: 25px; 
+}
+
+hr{
+  border: 1px solid #cacaca
+}
+
+.sub-title{
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  width: 100vw;
+  height: 70px;
+
+}
+.sub-title-box1{
+  display: flex;
+  align-items:flex-end;
+  height: 50px;
+  width: 50vw;
+  padding-left: 3.5vw;
+}
+.sub-title-box2{
+  display: flex;
+  align-items:flex-end;
+  height: 50px;
+  width: 50vw;
+}

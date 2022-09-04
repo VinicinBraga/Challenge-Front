@@ -1,0 +1,52 @@
+.title{
+  color: #3c525a;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 3vw;
+}
+.container{
+  padding: 2vw;
+  flex-direction: column;
+  display: flex;
+}
+
+.sub-title{
+  margin-top: 5vh;
+}
+
+.first-inputs{
+  display: flex;
+  justify-content: space-around;
+}
+
+input{
+  all: unset;
+  width: 100%;
+  box-shadow: 0px 2px 0px 0px #94bec9;
+  margin-right: 20px;
+}
+
+.input-modal{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.btn-container{
+  display: flex;
+  justify-content: end;
+  margin-top: 5vh;
+  margin-right: 20px;
+}
+.close-btn, .add-btn{
+  all: unset;
+  width: 100px;
+  height: 5vh;
+  margin-left: 1vw;
+  margin-top: 5vh;
+  background-color: #3c525a;
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+
+}
