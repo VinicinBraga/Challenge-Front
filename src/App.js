@@ -15,7 +15,7 @@ function App() {
 
   useEffect(() => {
     axios
-      .get("https://h-app-api.herokuapp.com/produtos")
+      .get(process.env.REACT_APP_API_URL)
       .then((response) => {
         setProducts(response.data.products);
       })
